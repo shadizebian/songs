@@ -3,9 +3,9 @@
 // Put the audio files inside the "audio" folder beside this file.
 // Keep the quotation marks and commas as shown.
 const SONGS = [
-  { word: "انعجني", audio: "6.mp4" },
-  { word: "طاقتي", audio: "7.mp4" },
-  { word: "أوضة", audio: "8.mp4" },
-  { word: "قاسمني", audio: "9.mp4" },
-  { word: "زرار", audio: "10.mp4" }
+  { word: "أعصابي", audio: "11.mp4" },
+  { word: "الخدود", audio: "12.mp4" },
+  { word: "البرداية", audio: "13.mp4" },
+  { word: "صحرا", audio: "14.mp4" },
+  { word: "شكوك", audio: "15.mp4" }
 ];
