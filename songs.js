@@ -7,5 +7,8 @@ const SONGS = [
   { word: "الخدود", audio: "12.mp4" },
   { word: "البرداية", audio: "13.mp4" },
   { word: "صحرا", audio: "14.mp4" },
-  { word: "شكوك", audio: "15.mp4" }
+  { word: "شكوك", audio: "15.mp4" },
+  { word: "علمي", audio: "16.mp4" },
+  { word: "الصبيان", audio: "17.mp4" },
+  { word: "قايد", audio: "18.mp4" }
 ];
